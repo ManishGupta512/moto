@@ -1,0 +1,1040 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c3917dbeabfcf24ef770e234eefa50fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\05798fbd5941e43e268f423484fe5383\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d9075c28c33b10643b34f8db404e156a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c90b5448d8b117a87d5be887c7496f49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7320716d0c8d6066f2cbfe7824a10e1a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fec0dfea38716e604d81a55e1e91065e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a0c58de8d3fbeac2bc2fec85c8a860\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\41cf7fd2f61b7c23d03ab9b6766cd962\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1eedbde8e66299a6900d38fa73f7a56e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dcbc6bcd97c8e10a868a67b4cdf4f133\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\640b95e0d116bb758e7d9174dc86d549\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\74708451fdeb2efa20671cc55234dc5c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2ec6520a06c01fd45059272064c94231\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\153efd276dabd83311ea171779e527ed\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bd47469e1a806dc2a70f216296e2f93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\08af02e48290ff1cbbaa91d1d2b65a14\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3170e73549154e5fdf1162e95a6ccced\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\72dd3d008f3b31136204e6eae25acd33\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f5871c43791b47d5df06b83d79294975\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9b22b3de8a2c7a3e5043edd316affde9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\92f076797b06c97bade6af064c11a3f8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\63c8c5d7ccdf239b6a5d2de8a0d6452b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01c38e04d6bf33fb40fcab3775d10183\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\25cbb2946ec4a5a85b6bee43bff27dcc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dc4881c915b6357a5dc188fceae65ec9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6226a3e6c6b15a9ed905e0061b1569c6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c2e2df0ce03ac725a0913779c82ed838\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0d2979e4d132986e08493aaed9fff3a8\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d54efd6d0e1695a4f29d3d937d4fc02c\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ed0ea9110b72836016e006ac61ed8b8f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9ae5ef847e28e854e094767d2c291d44\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f65f6da12a2577e37109ff197bf47271\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\07854414264b047903d6bafd2af7703d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a4fbd29ebd22ec2b72d6cf8a8f1cb926\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf346b7ee385a06226c2d7d9c70f27b9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\485756ebbde0fa92a9cd297abec79215\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8de055af8f6b7a0d57eec81cad1239d8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\89492dc1deb056687697362583ddcc31\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a2d6e1a01f3f09d6a6efa645db84eb56\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e89c83356cc708266f14f94824bbaf4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\b1f94a419cdde7242182cf7a88fa1451\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c527153567946e8da201a30b585d92c6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e6ffb8334a77ccc68667fda7ea609274\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a83b03f25de5ea804c2bf7a35479260f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\836729181415403b6d5584a0b5ae3ac5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\12b9ec3b6649fdd9601b16e3e0b5ddbc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01935f156b6574ded888f7d5f4f58c3f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c5a1b97c19d659c08de09ea62bddcdce\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\54b6af876267f168927a0322d62255aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\20e6cabaf06bfaef629d7dc84e55b66c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\09b026c226a01786202d0382df9b7c5e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807e651e93cb10b76636e55b25b456c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5c061a56ce70cbd2bcc8c7fe85d25ab3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bfb48134acadbaab3f1107349c212d5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9da81cda986cc6bb94ac53243b0f9d3f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a12051ceb07d4355d677deb3e1968fac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\776582b1834ec0acaea88b22a8bde273\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\50f89e122f77cd12e17f67f58bb97d96\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\993c13169f377257875c4670f3842291\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\026ee0f0ca9f9cf3347285197473c08d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\88b7981b67d1893e599c20cd141b178c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4410131e0c1b31102216c062236998a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\578fa34b777a44a3e6a37b8167bc15bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7178d900e43fc3a9bd9e88392b592c8e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\649aa6b0b3159b815e9eced42c1f488a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2a23ce94c16c20494cbba880983697eb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fdf7720aa45709fa93711c27729b9856\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6e434b121c549a2e77b4ec6264316e85\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3caa6e911dacdff3f80e5ec1ab8561d4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c51f0fc8b5c733ecd72798cf46c529e6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\30f241aa466c6f20ac7433fbe8d97e35\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8192df222147ad70b9f71fecea7e18db\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\76a233dfd6396a099e9fd2471c81717c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\90e76f5b52ccd5d1025358711bcf9a8e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4b72ed22aec4e559d688c18e5841886d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c1e27c152c0a8f976e3bdbb3374cef56\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f866fcd15587740301b1a13e525ee064\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c8fda3e36bbaecffda76a0bc4bd3a872\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2498ffe692c7daf2cee0ac9f6774bd57\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\cbad09ba015527e8264710139eed0bac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\61ca7115cd7577e9d9157e8019156d87\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1cf091f0e08696b628088bc20aa9729b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0464533599b2bedb2e95fb59c50c4b24\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:5:5-79:19
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\05798fbd5941e43e268f423484fe5383\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\05798fbd5941e43e268f423484fe5383\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7320716d0c8d6066f2cbfe7824a10e1a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7320716d0c8d6066f2cbfe7824a10e1a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\41cf7fd2f61b7c23d03ab9b6766cd962\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\41cf7fd2f61b7c23d03ab9b6766cd962\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1eedbde8e66299a6900d38fa73f7a56e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1eedbde8e66299a6900d38fa73f7a56e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dcbc6bcd97c8e10a868a67b4cdf4f133\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dcbc6bcd97c8e10a868a67b4cdf4f133\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\640b95e0d116bb758e7d9174dc86d549\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\640b95e0d116bb758e7d9174dc86d549\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\74708451fdeb2efa20671cc55234dc5c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\74708451fdeb2efa20671cc55234dc5c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2ec6520a06c01fd45059272064c94231\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2ec6520a06c01fd45059272064c94231\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\153efd276dabd83311ea171779e527ed\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\153efd276dabd83311ea171779e527ed\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bd47469e1a806dc2a70f216296e2f93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bd47469e1a806dc2a70f216296e2f93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\08af02e48290ff1cbbaa91d1d2b65a14\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\08af02e48290ff1cbbaa91d1d2b65a14\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\72dd3d008f3b31136204e6eae25acd33\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\72dd3d008f3b31136204e6eae25acd33\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9b22b3de8a2c7a3e5043edd316affde9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9b22b3de8a2c7a3e5043edd316affde9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\92f076797b06c97bade6af064c11a3f8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\92f076797b06c97bade6af064c11a3f8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\63c8c5d7ccdf239b6a5d2de8a0d6452b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\63c8c5d7ccdf239b6a5d2de8a0d6452b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01c38e04d6bf33fb40fcab3775d10183\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01c38e04d6bf33fb40fcab3775d10183\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\25cbb2946ec4a5a85b6bee43bff27dcc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\25cbb2946ec4a5a85b6bee43bff27dcc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dc4881c915b6357a5dc188fceae65ec9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dc4881c915b6357a5dc188fceae65ec9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6226a3e6c6b15a9ed905e0061b1569c6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6226a3e6c6b15a9ed905e0061b1569c6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c2e2df0ce03ac725a0913779c82ed838\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c2e2df0ce03ac725a0913779c82ed838\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f65f6da12a2577e37109ff197bf47271\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f65f6da12a2577e37109ff197bf47271\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\07854414264b047903d6bafd2af7703d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\07854414264b047903d6bafd2af7703d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a4fbd29ebd22ec2b72d6cf8a8f1cb926\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a4fbd29ebd22ec2b72d6cf8a8f1cb926\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf346b7ee385a06226c2d7d9c70f27b9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf346b7ee385a06226c2d7d9c70f27b9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\485756ebbde0fa92a9cd297abec79215\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\485756ebbde0fa92a9cd297abec79215\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8de055af8f6b7a0d57eec81cad1239d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8de055af8f6b7a0d57eec81cad1239d8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\89492dc1deb056687697362583ddcc31\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\89492dc1deb056687697362583ddcc31\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a2d6e1a01f3f09d6a6efa645db84eb56\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a2d6e1a01f3f09d6a6efa645db84eb56\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e89c83356cc708266f14f94824bbaf4b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e89c83356cc708266f14f94824bbaf4b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\b1f94a419cdde7242182cf7a88fa1451\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\b1f94a419cdde7242182cf7a88fa1451\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c527153567946e8da201a30b585d92c6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c527153567946e8da201a30b585d92c6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e6ffb8334a77ccc68667fda7ea609274\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e6ffb8334a77ccc68667fda7ea609274\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a83b03f25de5ea804c2bf7a35479260f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a83b03f25de5ea804c2bf7a35479260f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\836729181415403b6d5584a0b5ae3ac5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\836729181415403b6d5584a0b5ae3ac5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\12b9ec3b6649fdd9601b16e3e0b5ddbc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\12b9ec3b6649fdd9601b16e3e0b5ddbc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01935f156b6574ded888f7d5f4f58c3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01935f156b6574ded888f7d5f4f58c3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c5a1b97c19d659c08de09ea62bddcdce\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c5a1b97c19d659c08de09ea62bddcdce\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\54b6af876267f168927a0322d62255aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\54b6af876267f168927a0322d62255aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\20e6cabaf06bfaef629d7dc84e55b66c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\20e6cabaf06bfaef629d7dc84e55b66c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\09b026c226a01786202d0382df9b7c5e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\09b026c226a01786202d0382df9b7c5e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807e651e93cb10b76636e55b25b456c5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807e651e93cb10b76636e55b25b456c5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5c061a56ce70cbd2bcc8c7fe85d25ab3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5c061a56ce70cbd2bcc8c7fe85d25ab3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bfb48134acadbaab3f1107349c212d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bfb48134acadbaab3f1107349c212d5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9da81cda986cc6bb94ac53243b0f9d3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9da81cda986cc6bb94ac53243b0f9d3f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a12051ceb07d4355d677deb3e1968fac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a12051ceb07d4355d677deb3e1968fac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\776582b1834ec0acaea88b22a8bde273\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\776582b1834ec0acaea88b22a8bde273\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\50f89e122f77cd12e17f67f58bb97d96\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\50f89e122f77cd12e17f67f58bb97d96\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\993c13169f377257875c4670f3842291\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\993c13169f377257875c4670f3842291\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\026ee0f0ca9f9cf3347285197473c08d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\026ee0f0ca9f9cf3347285197473c08d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\88b7981b67d1893e599c20cd141b178c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\88b7981b67d1893e599c20cd141b178c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4410131e0c1b31102216c062236998a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4410131e0c1b31102216c062236998a1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\578fa34b777a44a3e6a37b8167bc15bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\578fa34b777a44a3e6a37b8167bc15bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7178d900e43fc3a9bd9e88392b592c8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7178d900e43fc3a9bd9e88392b592c8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\649aa6b0b3159b815e9eced42c1f488a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\649aa6b0b3159b815e9eced42c1f488a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2a23ce94c16c20494cbba880983697eb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2a23ce94c16c20494cbba880983697eb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fdf7720aa45709fa93711c27729b9856\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fdf7720aa45709fa93711c27729b9856\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6e434b121c549a2e77b4ec6264316e85\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6e434b121c549a2e77b4ec6264316e85\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3caa6e911dacdff3f80e5ec1ab8561d4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3caa6e911dacdff3f80e5ec1ab8561d4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c51f0fc8b5c733ecd72798cf46c529e6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c51f0fc8b5c733ecd72798cf46c529e6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\30f241aa466c6f20ac7433fbe8d97e35\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\30f241aa466c6f20ac7433fbe8d97e35\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8192df222147ad70b9f71fecea7e18db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8192df222147ad70b9f71fecea7e18db\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\76a233dfd6396a099e9fd2471c81717c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\76a233dfd6396a099e9fd2471c81717c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\90e76f5b52ccd5d1025358711bcf9a8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\90e76f5b52ccd5d1025358711bcf9a8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4b72ed22aec4e559d688c18e5841886d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4b72ed22aec4e559d688c18e5841886d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c1e27c152c0a8f976e3bdbb3374cef56\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c1e27c152c0a8f976e3bdbb3374cef56\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f866fcd15587740301b1a13e525ee064\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f866fcd15587740301b1a13e525ee064\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c8fda3e36bbaecffda76a0bc4bd3a872\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c8fda3e36bbaecffda76a0bc4bd3a872\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2498ffe692c7daf2cee0ac9f6774bd57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2498ffe692c7daf2cee0ac9f6774bd57\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\cbad09ba015527e8264710139eed0bac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\cbad09ba015527e8264710139eed0bac\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\61ca7115cd7577e9d9157e8019156d87\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\61ca7115cd7577e9d9157e8019156d87\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1cf091f0e08696b628088bc20aa9729b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1cf091f0e08696b628088bc20aa9729b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0464533599b2bedb2e95fb59c50c4b24\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0464533599b2bedb2e95fb59c50c4b24\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:5:18-50
+	android:icon
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:7:9-35
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:8:9-49
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:10:9-11:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:11:13-66
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:10:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:12:9-13:46
+	android:value
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:13:13-43
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:12:20-70
+activity#com.buildbox.game.PTPlayer
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:17:13-50
+	android:label
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:19:13-48
+	android:theme
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:18:13-71
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:15:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:33:9-35:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:34:13-122
+	android:theme
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:35:13-61
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:33:19-71
+supports-screens
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:81:5-84:39
+	android:largeScreens
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:81:23-50
+	android:smallScreens
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:82:9-36
+	android:normalScreens
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:84:9-37
+	android:anyDensity
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:83:9-34
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:86:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:86:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:87:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:87:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:88:5-75
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:88:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:89:5-81
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:89:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:90:5-81
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:90:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:91:5-74
+	android:name
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml:91:22-72
+uses-sdk
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c3917dbeabfcf24ef770e234eefa50fc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c3917dbeabfcf24ef770e234eefa50fc\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\05798fbd5941e43e268f423484fe5383\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\05798fbd5941e43e268f423484fe5383\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d9075c28c33b10643b34f8db404e156a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d9075c28c33b10643b34f8db404e156a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\de7a4d0121cf6d134af237c0b362b5f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c90b5448d8b117a87d5be887c7496f49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c90b5448d8b117a87d5be887c7496f49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7320716d0c8d6066f2cbfe7824a10e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7320716d0c8d6066f2cbfe7824a10e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fec0dfea38716e604d81a55e1e91065e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fec0dfea38716e604d81a55e1e91065e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a0c58de8d3fbeac2bc2fec85c8a860\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a0c58de8d3fbeac2bc2fec85c8a860\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\41cf7fd2f61b7c23d03ab9b6766cd962\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\41cf7fd2f61b7c23d03ab9b6766cd962\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1eedbde8e66299a6900d38fa73f7a56e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1eedbde8e66299a6900d38fa73f7a56e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dcbc6bcd97c8e10a868a67b4cdf4f133\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dcbc6bcd97c8e10a868a67b4cdf4f133\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\640b95e0d116bb758e7d9174dc86d549\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\640b95e0d116bb758e7d9174dc86d549\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\74708451fdeb2efa20671cc55234dc5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\74708451fdeb2efa20671cc55234dc5c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2ec6520a06c01fd45059272064c94231\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2ec6520a06c01fd45059272064c94231\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\153efd276dabd83311ea171779e527ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\153efd276dabd83311ea171779e527ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bd47469e1a806dc2a70f216296e2f93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bd47469e1a806dc2a70f216296e2f93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\08af02e48290ff1cbbaa91d1d2b65a14\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\08af02e48290ff1cbbaa91d1d2b65a14\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3170e73549154e5fdf1162e95a6ccced\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3170e73549154e5fdf1162e95a6ccced\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\72dd3d008f3b31136204e6eae25acd33\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\72dd3d008f3b31136204e6eae25acd33\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f5871c43791b47d5df06b83d79294975\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f5871c43791b47d5df06b83d79294975\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9b22b3de8a2c7a3e5043edd316affde9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9b22b3de8a2c7a3e5043edd316affde9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\92f076797b06c97bade6af064c11a3f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\92f076797b06c97bade6af064c11a3f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c110e69be6cf56d58e57d9d0b75142cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\63c8c5d7ccdf239b6a5d2de8a0d6452b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\63c8c5d7ccdf239b6a5d2de8a0d6452b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01c38e04d6bf33fb40fcab3775d10183\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01c38e04d6bf33fb40fcab3775d10183\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\25cbb2946ec4a5a85b6bee43bff27dcc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\25cbb2946ec4a5a85b6bee43bff27dcc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dc4881c915b6357a5dc188fceae65ec9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\dc4881c915b6357a5dc188fceae65ec9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6226a3e6c6b15a9ed905e0061b1569c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6226a3e6c6b15a9ed905e0061b1569c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c2e2df0ce03ac725a0913779c82ed838\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c2e2df0ce03ac725a0913779c82ed838\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\df74ae6ba88041adea8604356e378faa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0d2979e4d132986e08493aaed9fff3a8\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0d2979e4d132986e08493aaed9fff3a8\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d54efd6d0e1695a4f29d3d937d4fc02c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d54efd6d0e1695a4f29d3d937d4fc02c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ed0ea9110b72836016e006ac61ed8b8f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ed0ea9110b72836016e006ac61ed8b8f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9ae5ef847e28e854e094767d2c291d44\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9ae5ef847e28e854e094767d2c291d44\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f65f6da12a2577e37109ff197bf47271\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f65f6da12a2577e37109ff197bf47271\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\07854414264b047903d6bafd2af7703d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\07854414264b047903d6bafd2af7703d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d4af89bf07497aa14dc9749358feeaea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a4fbd29ebd22ec2b72d6cf8a8f1cb926\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a4fbd29ebd22ec2b72d6cf8a8f1cb926\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf346b7ee385a06226c2d7d9c70f27b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf346b7ee385a06226c2d7d9c70f27b9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\485756ebbde0fa92a9cd297abec79215\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\485756ebbde0fa92a9cd297abec79215\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8de055af8f6b7a0d57eec81cad1239d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8de055af8f6b7a0d57eec81cad1239d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\89492dc1deb056687697362583ddcc31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\89492dc1deb056687697362583ddcc31\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a2d6e1a01f3f09d6a6efa645db84eb56\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a2d6e1a01f3f09d6a6efa645db84eb56\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e89c83356cc708266f14f94824bbaf4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e89c83356cc708266f14f94824bbaf4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\b1f94a419cdde7242182cf7a88fa1451\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\b1f94a419cdde7242182cf7a88fa1451\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c527153567946e8da201a30b585d92c6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c527153567946e8da201a30b585d92c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e6ffb8334a77ccc68667fda7ea609274\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e6ffb8334a77ccc68667fda7ea609274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a83b03f25de5ea804c2bf7a35479260f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a83b03f25de5ea804c2bf7a35479260f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\836729181415403b6d5584a0b5ae3ac5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\836729181415403b6d5584a0b5ae3ac5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\12b9ec3b6649fdd9601b16e3e0b5ddbc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\12b9ec3b6649fdd9601b16e3e0b5ddbc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01935f156b6574ded888f7d5f4f58c3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\01935f156b6574ded888f7d5f4f58c3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c5a1b97c19d659c08de09ea62bddcdce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c5a1b97c19d659c08de09ea62bddcdce\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\54b6af876267f168927a0322d62255aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\54b6af876267f168927a0322d62255aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\20e6cabaf06bfaef629d7dc84e55b66c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\20e6cabaf06bfaef629d7dc84e55b66c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\09b026c226a01786202d0382df9b7c5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\09b026c226a01786202d0382df9b7c5e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807e651e93cb10b76636e55b25b456c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807e651e93cb10b76636e55b25b456c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5c061a56ce70cbd2bcc8c7fe85d25ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5c061a56ce70cbd2bcc8c7fe85d25ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bfb48134acadbaab3f1107349c212d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1bfb48134acadbaab3f1107349c212d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9da81cda986cc6bb94ac53243b0f9d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\9da81cda986cc6bb94ac53243b0f9d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a12051ceb07d4355d677deb3e1968fac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\a12051ceb07d4355d677deb3e1968fac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\776582b1834ec0acaea88b22a8bde273\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\776582b1834ec0acaea88b22a8bde273\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\50f89e122f77cd12e17f67f58bb97d96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\50f89e122f77cd12e17f67f58bb97d96\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\993c13169f377257875c4670f3842291\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\993c13169f377257875c4670f3842291\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\026ee0f0ca9f9cf3347285197473c08d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\026ee0f0ca9f9cf3347285197473c08d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\88b7981b67d1893e599c20cd141b178c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\88b7981b67d1893e599c20cd141b178c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4410131e0c1b31102216c062236998a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4410131e0c1b31102216c062236998a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\578fa34b777a44a3e6a37b8167bc15bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\578fa34b777a44a3e6a37b8167bc15bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7178d900e43fc3a9bd9e88392b592c8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7178d900e43fc3a9bd9e88392b592c8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\649aa6b0b3159b815e9eced42c1f488a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\649aa6b0b3159b815e9eced42c1f488a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2a23ce94c16c20494cbba880983697eb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2a23ce94c16c20494cbba880983697eb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fdf7720aa45709fa93711c27729b9856\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\fdf7720aa45709fa93711c27729b9856\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6e434b121c549a2e77b4ec6264316e85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6e434b121c549a2e77b4ec6264316e85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3caa6e911dacdff3f80e5ec1ab8561d4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\3caa6e911dacdff3f80e5ec1ab8561d4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c51f0fc8b5c733ecd72798cf46c529e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c51f0fc8b5c733ecd72798cf46c529e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\30f241aa466c6f20ac7433fbe8d97e35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\30f241aa466c6f20ac7433fbe8d97e35\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8192df222147ad70b9f71fecea7e18db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8192df222147ad70b9f71fecea7e18db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\76a233dfd6396a099e9fd2471c81717c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\76a233dfd6396a099e9fd2471c81717c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\90e76f5b52ccd5d1025358711bcf9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\90e76f5b52ccd5d1025358711bcf9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4b72ed22aec4e559d688c18e5841886d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4b72ed22aec4e559d688c18e5841886d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c1e27c152c0a8f976e3bdbb3374cef56\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c1e27c152c0a8f976e3bdbb3374cef56\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f866fcd15587740301b1a13e525ee064\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f866fcd15587740301b1a13e525ee064\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c8fda3e36bbaecffda76a0bc4bd3a872\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\c8fda3e36bbaecffda76a0bc4bd3a872\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2498ffe692c7daf2cee0ac9f6774bd57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2498ffe692c7daf2cee0ac9f6774bd57\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\cbad09ba015527e8264710139eed0bac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\cbad09ba015527e8264710139eed0bac\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\61ca7115cd7577e9d9157e8019156d87\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\61ca7115cd7577e9d9157e8019156d87\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1cf091f0e08696b628088bc20aa9729b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1cf091f0e08696b628088bc20aa9729b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0464533599b2bedb2e95fb59c50c4b24\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\0464533599b2bedb2e95fb59c50c4b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d9075c28c33b10643b34f8db404e156a\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MANISH\Downloads\MOTOBIKE Game\android studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\bf875f62d51ee42f9a8918cc162f4827\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ef1485da48d9f279bf6ca4a6a209e426\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\78810d7406cee441c392ae1c246b0066\AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\8c393397dd4d37df3039d141a1fd1995\AndroidManifest.xml:34:13-89
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\77a020bf89696831a61ccfef9935cf1c\AndroidManifest.xml:11:18-90
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\2767b838a284579174f8b86439af8545\AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\e56677590033dab0fc2dd0f3d1ccbda9\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\d67c7815a86645c2e2e504e5658abe37\AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4d6f2d96408136ba68b227f816151d89\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f63f135c4d492ca49d3406116f294b01\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\807118ace5fe36aa91259ef888724d07\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.bike.game.motor
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\7710ea29375ab8dd9a27874589b098e8\AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\5a6595d4fb5bd00a26b97e6d39836654\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\ce94cf5e33531a8f04c60b1ab3e79097\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:29:9-63
+permission#bike.game.motor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:32:22-76
+uses-permission#bike.game.motor.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:bike.game.motor
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:42:27-58
+category#bike.game.motor
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4e0f23e82790eed64d7d0085f315524b\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\608609f329f6cd608f4a330a721aeb08\AndroidManifest.xml:9:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\43b3e24cfba857504aaf531bd5192474\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f0e1618401b610d31d4fc1355b465554\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\1faa1b03b17e537cd016a3b4863a7e38\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\10a40868c3bf4859d8e7fe7c73202e8f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4c54627dd09d269b14bb0e5cfadadf8b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\83e9f80f4d4eea04d6b7dca72929110f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\875278c75a9e7c0e72592eb95f15e17c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\75025066908fbe14d27995272acf9a57\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\681691e70f50ca82294a91d9fd6b7054\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\f1a06c7cbc52eeac22122e2da1ecc008\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\6cd81c254c1338d9d595923b6f509acb\AndroidManifest.xml:24:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\MANISH\.gradle\caches\transforms-2\files-2.1\4658e8984668bcf31a5c11019b072d5a\AndroidManifest.xml:26:13-58
